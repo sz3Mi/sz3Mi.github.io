@@ -5,13 +5,13 @@ h1{
 	font-weight: bold;
 	font-size: 4em;
 	color: #FFFEAA;
-	text-align: center;
 	margin-top: 280px;
 }
 
 body {
 	background-image: url(background.jpg);
 	background-size: cover;
+	text-align: center;
 }
 .btn-primary{
 	width: 225px;
