@@ -5,7 +5,7 @@ html {
 }
 
 body {
-  font-family: 'Kalam', sans-serif;
+font-family: 'Kalam', cursive;
 	color: #FFF7AA;
 }
 
@@ -39,7 +39,7 @@ header.startup h1 {
   font-weight: 700;
   text-transform: uppercase;
   border-radius: 300px;
-  font-family: 'Kalam', sans-serif;
+  font-family: 'Kalam', cursive;
 }
 
 .btn-xl {
